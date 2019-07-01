@@ -7,6 +7,7 @@
 | Title | Link |
 |--|--|
 | Before you begin | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/00.Before.md) |
+| Introduction | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/01.Introduction.md) |
 
 **Video Channel**
 ```
