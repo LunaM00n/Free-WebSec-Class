@@ -10,6 +10,7 @@
 | Introduction | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/01.Introduction.md) |
 | Methodology | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/02.Methodology.md) |
 | PHP Essentials | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/03.Essentials_PHP.md) |
+| Command Injection | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/04.Command_Injection.md) |
 
 **Video Channel**
 ```
