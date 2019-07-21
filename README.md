@@ -12,6 +12,7 @@
 | PHP Essentials | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/03.Essentials_PHP.md) |
 | Command Injection | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/04.Command_Injection.md) |
 | SQL Injection | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/06.SQL%20Injection.md) |
+| Same Origin Method Execution | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/07.Some.md) |
 
 **Video Channel**
 ```
