@@ -14,6 +14,7 @@
 | SQL Injection | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/06.SQL%20Injection.md) |
 | Same Origin Method Execution | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/07.Some.md) |
 | Cross Site Request Forgery | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/08.CSRF.md) |
+| Web Cache Poisoning | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/09.Web%20Cache%20Poisoning.md) |
 
 **Video Channel**
 ```
