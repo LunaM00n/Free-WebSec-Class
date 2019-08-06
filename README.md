@@ -16,6 +16,7 @@
 | Cross Site Request Forgery | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/08.CSRF.md) |
 | Web Cache Poisoning | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/09.Web%20Cache%20Poisoning.md) |
 | HTTP Host Header Injection | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/10.Host_Header_Attack.md) |
+| Server Side Request Forgery | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/11.SSRF.md) |
 
 **Video Channel**
 ```
