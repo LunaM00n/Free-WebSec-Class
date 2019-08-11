@@ -1,5 +1,8 @@
 # Free-WebSec-Class
 
+![Free Web Sec](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Images/Free%20Web%20Sec.png)
+
+
 > Course materials for LOL's Free Web Security Class
 
 **Notes**
