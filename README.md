@@ -19,6 +19,7 @@
 | HTTP Host Header Injection | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/10.Host_Header_Attack.md) |
 | Server Side Request Forgery | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/11.SSRF.md) |
 | XML External Entities | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/12.XXE.md) |
+| CSV Injection | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/13.csv_injection.md) |
 
 **Video Channel**
 ```
