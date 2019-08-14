@@ -20,6 +20,7 @@
 | Server Side Request Forgery | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/11.SSRF.md) |
 | XML External Entities | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/12.XXE.md) |
 | CSV Injection | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/13.csv_injection.md) |
+| Race Conditions - TOCTOU | [Click](https://github.com/LunaM00n/Free-WebSec-Class/blob/master/Lectures/14.race_condition_toctou.md) |
 
 **Video Channel**
 ```
